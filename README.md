@@ -8,7 +8,7 @@ An industry-standard, secure, and highly available 3-Tier Web Application infras
 
 ## 🗺️ Architecture Overview
 
-![AWS Architecture Diagram](./[YOUR_DIAGRAM_IMAGE_NAME].png)
+![AWS Architecture Diagram](images/architecture.png)
 
 The infrastructure is built entirely within a custom VPC (`10.0.0.0/16`) and consists of the following isolated layers:
 1. **Presentation Layer (Public Subnets):** Houses an external Application Load Balancer (ALB) spanning both AZs to route user traffic, alongside a Public EC2 Web Server acting as a reverse proxy (Nginx) and Bastion Host.
