@@ -45,7 +45,7 @@ The infrastructure is built entirely within a custom VPC (`10.0.0.0/16`) and con
 
 ### 2. Live Public Application Access
 *Add your screenshot of the successful Nginx welcome/landing page accessed via your ALB's DNS link.*
-![Nginx Verification](./[YOUR_NGINX_SCREENSHOT].png)
+![Nginx Verification](images/nginx.png)
 
 ---
 
