@@ -40,11 +40,9 @@ The infrastructure is built entirely within a custom VPC (`10.0.0.0/16`) and con
 ## 📸 Verification & Screenshots
 
 ### 1. Fully Healthy ALB Target Groups
-*Add your screenshot here showing your registered EC2 targets reporting a `Healthy` status.*
 ![Target Group Status](images/targetgroup.png)
 
 ### 2. Live Public Application Access
-*Add your screenshot of the successful Nginx welcome/landing page accessed via your ALB's DNS link.*
 ![Nginx Verification](images/nginx.png)
 
 ---
